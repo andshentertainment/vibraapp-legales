@@ -6,12 +6,12 @@
 
 Los presentes Términos y Condiciones regulan el acceso y uso de la aplicación móvil **VibraApp**, de titularidad de **Andy Jefferson Sullcaray Huaman**, identificado con DNI N.° 60905577, persona natural domiciliada en El Tambo, Huancayo, Junín, Perú (en adelante, el "Titular" o "nosotros").
 
-Al descargar, instalar, registrarse o utilizar de cualquier forma la Aplicación usted, el usuario, declara haber leído, entendido y aceptado íntegramente estos Términos, así como la [Política de Privacidad](politica-de-privacidad.md), que forma parte integrante del presente documento. Si no está de acuerdo con alguno de estos Términos, deberá abstenerse de usar la Aplicación.
+Al descargar, instalar, registrarse o utilizar de cualquier forma la Aplicación usted, el usuario, declara haber leído, entendido y aceptado íntegramente estos Términos, así como la [Política de Privacidad](https://andshentertainment.github.io/vibraapp-legales/#privacidad), que forma parte integrante del presente documento. Si no está de acuerdo con alguno de estos Términos, deberá abstenerse de usar la Aplicación.
 
 ## 2. Definiciones
 
 - **Aplicación:** el software móvil "VibraApp", disponible para dispositivos Android e iOS, incluyendo todas sus funcionalidades, contenidos y actualizaciones.
-- **Modo Familiar/Clásico:** conjunto de juegos y dinámicas de la Aplicación orientados a un público general, aptos para reuniones familiares.
+- **Modo Clásico:** conjunto de juegos y dinámicas de la Aplicación orientados a un público general, aptos para todo tipo de reuniones sociales.
 - **Modo Previa:** conjunto de juegos y dinámicas de la Aplicación orientados a un público adulto, con temática de entretenimiento nocturno y, en algunos casos, referencias al consumo de alcohol.
 - **Cuenta:** el perfil de usuario registrado en la Aplicación, asociado a un correo electrónico.
 - **Contenido Premium:** funcionalidades, categorías o dinámicas de pago dentro de la Aplicación, accesibles mediante una suscripción paga.
@@ -19,13 +19,13 @@ Al descargar, instalar, registrarse o utilizar de cualquier forma la Aplicación
 
 ## 3. Descripción del Servicio
 
-VibraApp es una aplicación de entretenimiento social diseñada para dinamizar reuniones, ya sea en familia o entre amigos, a través de distintos juegos y retos, entre ellos: Charada Clásica, Yo Nunca (Clásico y modalidad Previa), Trabalenguas, Retos Aleatorios, Dado, Charada Previa, Verdad o Reto, La Frasecita y Estoy Ebrio (serie de minijuegos de entretenimiento), entre otros que puedan incorporarse en el futuro.
+VibraApp es una aplicación de entretenimiento social diseñada para dinamizar reuniones sociales entre amigos o allegados, a través de distintos juegos y retos, entre ellos: Charada Clásica, Yo Nunca (Clásico y modalidad Previa), Trabalenguas, Retos Aleatorios, Dado, Charada Previa, Verdad o Reto, La Frasecita y Estoy Ebrio (serie de minijuegos de entretenimiento), entre otros que puedan incorporarse en el futuro.
 
 La Aplicación puede funcionar total o parcialmente sin conexión a internet, sincronizando contenido cuando exista conectividad disponible.
 
 ## 4. Requisitos de edad y Modo Previa
 
-El uso general de la Aplicación (Modo Familiar/Clásico) no tiene restricción de edad específica, sin perjuicio de que su uso por menores de edad debe realizarse bajo la supervisión de un adulto responsable.
+El uso general de la Aplicación (Modo Clásico) no tiene restricción de edad específica, sin perjuicio de que su uso por menores de edad debe realizarse bajo la supervisión de un adulto responsable. El uso de la Aplicación es responsabilidad exclusiva del Usuario, quien debe evaluar la idoneidad de sus contenidos según su propio criterio y circunstancias.
 
 El **Modo Previa** está reservado exclusivamente para personas **mayores de 18 años**. Al intentar acceder a dicho modo, la Aplicación solicitará al Usuario que confirme su año de nacimiento y acepte estos Términos como mecanismo de verificación de edad. El Usuario declara bajo su responsabilidad que la información proporcionada es veraz. El Titular se reserva el derecho de suspender o eliminar cuentas en las que se detecte información de edad falsa.
 

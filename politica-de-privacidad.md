@@ -1,6 +1,6 @@
 # Política de Privacidad — VibraApp
 
-**Última actualización:** 15 de agosto de 2026
+**Última actualización:** 22 de agosto de 2026
 
 ## 1. Introducción
 
