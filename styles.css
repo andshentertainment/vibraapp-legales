@@ -134,23 +134,25 @@ h1 em { color: var(--blue); font-style: normal; }
   .document-footer { padding: 17px 22px; flex-direction: column; gap: 5px; }
 }
 @media (max-width: 520px) {
-  .topbar, main, .site-footer { width: calc(100% - 28px); }
+  .topbar, main, .site-footer { width: 100%; }
   .topbar { height: 72px; }
+  .topbar { padding: 0 14px; }
   .topbar-actions { gap: 8px; }
   .topbar-note { display: none; }
   .theme-label { display: none; }
-  .intro { padding-top: 40px; }
+  .intro { padding: 40px 14px 38px; }
   h1 { font-size: 42px; letter-spacing: -2.5px; }
   .intro-text { max-width: 290px; font-size: 14px; }
   .document-nav { grid-template-columns: 1fr; }
   .document-link { grid-template-columns: 30px 1fr 16px; padding: 13px; }
   .document-link .arrow { display: block; }
+  .document-area { width: 100%; border-radius: 10px; }
   .document-toolbar { display: block; }
   .breadcrumb { margin-bottom: 14px; }
   .search-box { width: 100%; }
   .document-content h1 { font-size: 29px; }
   .document-content h2 { margin-top: 31px; font-size: 18px; }
-  .document-content p, .document-content li { font-size: 13px; }
-  .site-footer { gap: 8px; padding-bottom: 28px; font-size: 10px; }
+  .document-content p, .document-content li { font-size: 14px; }
+  .site-footer { gap: 8px; padding: 28px 14px; font-size: 10px; }
   .footer-rule { width: 12px; }
 }

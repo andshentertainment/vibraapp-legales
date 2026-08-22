@@ -6,7 +6,7 @@
 
 Los presentes Términos y Condiciones regulan el acceso y uso de la aplicación móvil **VibraApp**, de titularidad de **Andy Jefferson Sullcaray Huaman**, identificado con DNI N.° 60905577, persona natural domiciliada en El Tambo, Huancayo, Junín, Perú (en adelante, el "Titular" o "nosotros").
 
-Al descargar, instalar, registrarse o utilizar de cualquier forma la Aplicación usted, el usuario, declara haber leído, entendido y aceptado íntegramente estos Términos, así como la [Política de Privacidad](https://andshentertainment.github.io/vibraapp-legales/#privacidad), que forma parte integrante del presente documento. Si no está de acuerdo con alguno de estos Términos, deberá abstenerse de usar la Aplicación.
+Al descargar, instalar, registrarse o utilizar de cualquier forma la Aplicación usted, el usuario, declara haber leído, entendido y aceptado íntegramente estos Términos, así como la [Política de Privacidad](#privacidad), que forma parte integrante del presente documento. Si no está de acuerdo con alguno de estos Términos, deberá abstenerse de usar la Aplicación.
 
 ## 2. Definiciones
 
