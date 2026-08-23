@@ -15,7 +15,7 @@ Al utilizar la Aplicación, usted acepta las prácticas descritas en esta Polít
 - **Titular:** Andy Jefferson Sullcaray Huaman
 - **Documento de identidad:** DNI N.° 60905577
 - **Domicilio:** El Tambo, Huancayo, Junín, Perú
-- **Correo de contacto:** soporte.vibraapp@gmail.com
+- **Correo de contacto:** soporte.andsh@gmail.com
 
 ## 3. Datos personales que recopilamos
 
@@ -94,7 +94,7 @@ De conformidad con la Ley N.° 29733, el Usuario tiene derecho a:
 - **Oposición:** oponerse al tratamiento de sus datos personales en determinados supuestos.
 - **Portabilidad**, cuando resulte técnicamente aplicable.
 
-Para ejercer cualquiera de estos derechos, el Usuario puede escribir a **soporte.vibraapp@gmail.com**, indicando el derecho que desea ejercer y adjuntando información que permita verificar su identidad. Atenderemos su solicitud dentro de los plazos establecidos por la normativa aplicable.
+Para ejercer cualquiera de estos derechos, el Usuario puede escribir a **soporte.andsh@gmail.com**, indicando el derecho que desea ejercer y adjuntando información que permita verificar su identidad. Atenderemos su solicitud dentro de los plazos establecidos por la normativa aplicable.
 
 El Usuario también puede editar directamente su nombre de usuario desde la sección "Ajustes &gt; Cuenta" de la Aplicación, o cerrar sesión y solicitar la eliminación completa de su Cuenta por el correo antes indicado.
 
@@ -116,4 +116,4 @@ Podemos actualizar esta Política de Privacidad periódicamente para reflejar ca
 
 ## 13. Contacto
 
-Para consultas, dudas o el ejercicio de sus derechos en materia de protección de datos personales, puede contactarnos a través del correo electrónico: **soporte.vibraapp@gmail.com**.
+Para consultas, dudas o el ejercicio de sus derechos en materia de protección de datos personales, puede contactarnos a través del correo electrónico: **soporte.andsh@gmail.com**.

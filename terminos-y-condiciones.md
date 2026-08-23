@@ -91,7 +91,7 @@ Asimismo, el Titular podrá modificar estos Términos en cualquier momento. Las 
 
 ## 11. Terminación
 
-El Usuario puede dejar de utilizar la Aplicación y solicitar la eliminación de su Cuenta en cualquier momento, escribiendo a **soporte.vibraapp@gmail.com**.
+El Usuario puede dejar de utilizar la Aplicación y solicitar la eliminación de su Cuenta en cualquier momento, escribiendo a **soporte.andsh@gmail.com**.
 
 El Titular podrá suspender o cancelar el acceso de un Usuario, de forma temporal o definitiva, ante el incumplimiento de estos Términos, sin perjuicio de otras acciones que correspondan conforme a ley.
 
@@ -101,6 +101,6 @@ Estos Términos se rigen por las leyes de la **República del Perú**. Para cual
 
 ## 13. Contacto y Libro de Reclamaciones
 
-Para consultas, reclamos o solicitudes relacionadas con estos Términos, el Usuario puede contactar al Titular a través del correo electrónico: **soporte.vibraapp@gmail.com**.
+Para consultas, reclamos o solicitudes relacionadas con estos Términos, el Usuario puede contactar al Titular a través del correo electrónico: **soporte.andsh@gmail.com**.
 
 Asimismo, en cumplimiento del Código de Protección y Defensa del Consumidor de la República del Perú, ponemos a disposición del Usuario nuestro **Libro de Reclamaciones Virtual**, al cual puede acceder directamente a través del siguiente enlace: **[https://forms.gle/ZAQ6H6nkEnaQpPFAA](https://forms.gle/ZAQ6H6nkEnaQpPFAA)**. Las reclamaciones y quejas registradas serán atendidas en el plazo legal establecido.
