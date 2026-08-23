@@ -1,6 +1,6 @@
 # Términos y Condiciones de Uso — VibraApp
 
-**Última actualización:** 22 de agosto de 2026
+**Última actualización:** 24 de agosto de 2026
 
 ## 1. Introducción y aceptación
 
