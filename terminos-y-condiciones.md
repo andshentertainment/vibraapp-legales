@@ -26,7 +26,7 @@ La Aplicación **no requiere registro, cuenta ni conexión a internet** para fun
 
 El uso general de la Aplicación (Modo Clásico) no tiene restricción de edad específica, sin perjuicio de que su uso por menores de edad debe realizarse bajo la supervisión de un adulto responsable. El uso de la Aplicación es responsabilidad exclusiva del Usuario, quien debe evaluar la idoneidad de sus contenidos según su propio criterio y circunstancias.
 
-El **Modo Previa** está **recomendado exclusivamente para personas mayores de 18 años**, dada su temática de entretenimiento nocturno. El cambio a este modo es una decisión del propio Usuario dentro de la Aplicación; el Titular confía en la clasificación de edad de la Aplicación en las tiendas oficiales (Google Play y App Store) y en los controles parentales del dispositivo como mecanismos de restricción de acceso a menores de edad, e insta a los padres o tutores a configurarlos.
+El **Modo Previa** está **reservado exclusivamente para personas mayores de 18 años**, dada su temática de entretenimiento nocturno. La primera vez que el Usuario abre la Aplicación, esta le solicita indicar su año de nacimiento mediante un selector, para calcular si es mayor de edad; el Usuario declara bajo su responsabilidad que la información proporcionada es veraz. Si el resultado del cálculo es menor a 18 años, el Modo Previa queda completamente oculto y no puede activarse por ningún medio dentro de la Aplicación. El Titular confía además en la clasificación de edad de la Aplicación en las tiendas oficiales (Google Play y App Store) y en los controles parentales del dispositivo como mecanismos adicionales de restricción de acceso a menores de edad, e insta a los padres o tutores a configurarlos.
 
 Parte del contenido del Modo Previa hace referencia, con fines exclusivamente lúdicos, al consumo de bebidas alcohólicas (por ejemplo, en los juegos "Yo Nunca Nunca" o "¿Estoy ebrio?"). El Titular **no promueve el consumo excesivo o irresponsable de alcohol** y recomienda encarecidamente a los Usuarios beber con moderación, no conducir vehículos bajo los efectos del alcohol y respetar la normativa vigente en su jurisdicción sobre venta y consumo de bebidas alcohólicas.
 
@@ -50,13 +50,19 @@ b) **Sin renovación automática:** al ser un pago único y no una suscripción,
 c) **Reembolsos:** las solicitudes de reembolso se rigen íntegramente por las políticas de la tienda de aplicaciones correspondiente (Google Play o App Store), ya que el Titular no procesa directamente los pagos ni tiene acceso a los datos del método de pago del Usuario.
 d) **Restauración de compras:** VibraApp Premium queda asociado a la cuenta de Google Play (o Apple ID) con la que se realizó la compra. Si el Usuario reinstala la Aplicación o cambia de dispositivo, puede recuperar su compra usando la opción "Restaurar compras" dentro de la Aplicación, siempre que inicie sesión en la tienda con la misma cuenta.
 
-## 7. Propiedad intelectual
+## 7. Publicidad
+
+La Aplicación muestra anuncios publicitarios en formato banner, ubicados en la parte inferior de la pantalla, servidos por **Google AdMob**. El Usuario reconoce y acepta que la Aplicación gratuita se sostiene, entre otros medios, mediante esta publicidad, y que su tratamiento de datos se describe en la [Política de Privacidad](#privacidad).
+
+El Titular no controla el contenido específico de cada anuncio mostrado por Google AdMob y no se hace responsable por los productos, servicios o sitios web de los anunciantes a los que el Usuario acceda voluntariamente a través de dichos anuncios.
+
+## 8. Propiedad intelectual
 
 Todos los derechos de propiedad intelectual sobre la Aplicación —incluyendo, sin limitación, su código fuente, diseño, interfaz, marca "VibraApp", logotipos, mascota "Viby", textos, ilustraciones, categorías de juego y contenidos originales— pertenecen al Titular o a sus licenciantes, y están protegidos por la legislación peruana e internacional sobre propiedad intelectual.
 
 Se concede al Usuario una licencia limitada, personal, no exclusiva, no transferible y revocable para el uso de la Aplicación conforme a estos Términos, exclusivamente para fines personales y no comerciales. Queda prohibida la reproducción, distribución, modificación o explotación comercial de la Aplicación o sus contenidos sin autorización previa y por escrito del Titular.
 
-## 8. Limitación de responsabilidad
+## 9. Limitación de responsabilidad
 
 a) La Aplicación se ofrece "tal cual" y "según disponibilidad". El Titular no garantiza que el Servicio sea ininterrumpido, libre de errores o esté disponible en todo momento.
 
@@ -66,23 +72,23 @@ c) El Titular no se hace responsable por daños, lesiones o perjuicios derivados
 
 d) En la máxima medida permitida por la ley aplicable, el Titular no será responsable por daños indirectos, incidentales, especiales o consecuentes derivados del uso o la imposibilidad de uso de la Aplicación.
 
-## 9. Modificaciones al Servicio y a los Términos
+## 10. Modificaciones al Servicio y a los Términos
 
 El Titular se reserva el derecho de modificar, actualizar, suspender o descontinuar, total o parcialmente, la Aplicación o cualquiera de sus funcionalidades en cualquier momento, sin que ello genere responsabilidad frente al Usuario, salvo disposición legal en contrario.
 
 Asimismo, el Titular podrá modificar estos Términos en cualquier momento. Las modificaciones sustanciales serán comunicadas a través de la propia Aplicación o de su ficha en la tienda correspondiente. El uso continuado de la Aplicación tras la publicación de los cambios implica la aceptación de los nuevos Términos.
 
-## 10. Terminación
+## 11. Terminación
 
 El Usuario puede dejar de utilizar la Aplicación desinstalándola en cualquier momento. Como la Aplicación no crea cuentas ni guarda información en servidores del Titular, no existe una "cuenta" que eliminar: desinstalar la Aplicación (o borrar sus datos desde los ajustes del sistema) elimina toda la información local, incluida la marca de VibraApp Premium; esto no afecta el derecho del Usuario a restaurar su compra desde Google Play si vuelve a instalar la Aplicación.
 
 El Titular podrá restringir el acceso de un Usuario a través de los mecanismos disponibles en las tiendas de aplicaciones ante el incumplimiento de estos Términos, sin perjuicio de otras acciones que correspondan conforme a ley.
 
-## 11. Ley aplicable y jurisdicción
+## 12. Ley aplicable y jurisdicción
 
 Estos Términos se rigen por las leyes de la **República del Perú**. Para cualquier controversia derivada de la interpretación, ejecución o cumplimiento de los presentes Términos, las partes se someten a la jurisdicción de los jueces y tribunales del Perú, con renuncia expresa a cualquier otro fuero que pudiera corresponderles, sin perjuicio de las normas de protección al consumidor que resulten de aplicación imperativa.
 
-## 12. Contacto y Libro de Reclamaciones
+## 13. Contacto y Libro de Reclamaciones
 
 Para consultas, reclamos o solicitudes relacionadas con estos Términos, el Usuario puede contactar al Titular a través del correo electrónico: **soporte.andsh@gmail.com**.
 
