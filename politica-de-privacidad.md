@@ -1,6 +1,6 @@
 # Política de Privacidad — VibraApp
 
-**Última actualización:** 18 de septiembre de 2026
+**Última actualización:** 19 de septiembre de 2026
 
 ## 1. Introducción
 
@@ -51,11 +51,13 @@ La Aplicación **no solicita ni accede** a su ubicación geográfica, cámara, c
 
 ## 7. Publicidad
 
-VibraApp muestra anuncios publicitarios en formato **banner**, ubicados en la parte inferior de la pantalla, servidos a través de **Google AdMob** (Google LLC). Es el único proveedor con fines publicitarios que usamos, y son los únicos anuncios de la Aplicación: no usamos anuncios de pantalla completa ni de video.
+VibraApp muestra anuncios publicitarios en formato **banner**, ubicados en la parte inferior de la pantalla, servidos a través de **Google AdMob** (Google LLC). Es el único proveedor con fines publicitarios que usamos, y son los únicos anuncios de la Aplicación: no usamos anuncios de pantalla completa ni de video. Los banners solo aparecen en las pantallas de navegación (inicio y selección de categorías); nunca durante una partida.
 
 Para poder mostrar estos anuncios, Google AdMob recibe automáticamente cierta información técnica de su dispositivo: el identificador de publicidad, datos básicos del dispositivo y del sistema operativo, su dirección IP (de la cual puede inferirse una ubicación aproximada) y datos de interacción con el anuncio (impresiones, clics), con fines de entrega del anuncio, medición y prevención de fraude.
 
-Por defecto, mostramos anuncios **no personalizados** (basados en el contexto de la Aplicación, no en un perfil de sus intereses). Si en el futuro decidimos mostrar anuncios personalizados, actualizaremos esta Política y, en las regiones donde la ley lo exija, le pediremos su consentimiento explícito antes de activarlos.
+La Aplicación solicita expresamente a Google AdMob anuncios **no personalizados**: se eligen por el contexto de la Aplicación y no a partir de un perfil de sus intereses. Si en el futuro decidiéramos mostrar anuncios personalizados, actualizaríamos esta Política y, en las regiones donde la ley lo exija, le pediríamos su consentimiento explícito antes de activarlos.
+
+**Si adquiere VibraApp Premium, la Aplicación deja de mostrar publicidad**, y en consecuencia deja de solicitar anuncios: desde ese momento Google AdMob ya no recibe ninguna información desde su dispositivo.
 
 Puede administrar la personalización de anuncios en todas las apps de su dispositivo desde la Configuración de anuncios de Google: [https://adssettings.google.com](https://adssettings.google.com). El tratamiento que Google AdMob hace de esta información se rige por la [Política de Privacidad de Google](https://policies.google.com/privacy).
 

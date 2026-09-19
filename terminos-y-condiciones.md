@@ -1,6 +1,6 @@
 # Términos y Condiciones de Uso — VibraApp
 
-**Última actualización:** 18 de septiembre de 2026
+**Última actualización:** 19 de septiembre de 2026
 
 ## 1. Introducción y aceptación
 
@@ -13,7 +13,7 @@ Al descargar, instalar o utilizar de cualquier forma la Aplicación, usted, el u
 - **Aplicación:** el software móvil "VibraApp", disponible para dispositivos Android e iOS, incluyendo todas sus funcionalidades, contenidos y actualizaciones.
 - **Modo Clásico:** conjunto de juegos y dinámicas de la Aplicación orientados a un público general, aptos para todo tipo de reuniones sociales.
 - **Modo Previa:** conjunto de juegos y dinámicas de la Aplicación orientados a un público adulto, con temática de entretenimiento nocturno y, en algunos casos, referencias al consumo de alcohol.
-- **VibraApp Premium (Contenido Premium):** conjunto de categorías y funcionalidades adicionales dentro de la Aplicación, desbloqueadas mediante un pago único.
+- **VibraApp Premium (Contenido Premium):** conjunto de categorías y funcionalidades adicionales dentro de la Aplicación, desbloqueadas mediante un pago único, que además elimina la publicidad.
 - **Usuario:** cualquier persona que acceda, descargue o utilice la Aplicación.
 
 ## 3. Descripción del Servicio
@@ -45,6 +45,8 @@ El Titular podrá restringir el acceso a un Usuario que incumpla estos Términos
 
 VibraApp ofrece contenido y funcionalidades adicionales ("VibraApp Premium") mediante un **pago único**, sin renovación ni periodicidad, procesado íntegramente a través de **Google Play Billing** y/o el sistema de facturación de **Apple App Store**, según corresponda al dispositivo del Usuario. El Titular no gestiona ninguna suscripción: Premium se compra una sola vez y queda disponible de forma permanente.
 
+VibraApp Premium incluye: (i) el acceso a todas las categorías de pago de los juegos y (ii) la **eliminación de la publicidad** en toda la Aplicación. Ambas cosas funcionan sin conexión una vez desbloqueadas.
+
 a) **Precio:** el precio de VibraApp Premium se fija en la consola de la tienda correspondiente y se muestra en la Aplicación, en la moneda local, antes de confirmar la compra. Puede variar según el país o región del Usuario.
 b) **Sin renovación automática:** al ser un pago único y no una suscripción, no existen cargos periódicos ni necesidad de cancelación.
 c) **Reembolsos:** las solicitudes de reembolso se rigen íntegramente por las políticas de la tienda de aplicaciones correspondiente (Google Play o App Store), ya que el Titular no procesa directamente los pagos ni tiene acceso a los datos del método de pago del Usuario.
@@ -52,7 +54,9 @@ d) **Restauración de compras:** VibraApp Premium queda asociado a la cuenta de 
 
 ## 7. Publicidad
 
-La Aplicación muestra anuncios publicitarios en formato banner, ubicados en la parte inferior de la pantalla, servidos por **Google AdMob**. El Usuario reconoce y acepta que la Aplicación gratuita se sostiene, entre otros medios, mediante esta publicidad, y que su tratamiento de datos se describe en la [Política de Privacidad](#privacidad).
+La Aplicación muestra anuncios publicitarios en formato banner, ubicados en la parte inferior de la pantalla, servidos por **Google AdMob**. Los banners aparecen únicamente en las pantallas de navegación (inicio y selección de categorías); **no se muestra publicidad durante el desarrollo de una partida**. El Usuario reconoce y acepta que la Aplicación gratuita se sostiene, entre otros medios, mediante esta publicidad, y que su tratamiento de datos se describe en la [Política de Privacidad](#privacidad).
+
+Los Usuarios que adquieran VibraApp Premium **dejan de ver publicidad** en toda la Aplicación, conforme a la sección 6.
 
 El Titular no controla el contenido específico de cada anuncio mostrado por Google AdMob y no se hace responsable por los productos, servicios o sitios web de los anunciantes a los que el Usuario acceda voluntariamente a través de dichos anuncios.
 
