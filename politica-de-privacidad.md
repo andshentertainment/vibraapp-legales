@@ -1,6 +1,6 @@
 # Política de Privacidad — VibraApp
 
-**Última actualización:** 19 de septiembre de 2026
+**Última actualización:** 23 de septiembre de 2026
 
 ## 1. Introducción
 
@@ -28,16 +28,19 @@ Toda la información relacionada con su uso de la Aplicación se almacena **úni
 - **Preferencias de la Aplicación:** el modo activo (Clásico o Previa), el tema visual y otras preferencias de interfaz.
 - **Estado de su compra Premium:** una marca local que indica si desbloqueó "VibraApp Premium", guardada de forma cifrada mediante el almacenamiento seguro del sistema operativo (Android Keystore / EncryptedSharedPreferences). Esta marca solo evita tener que volver a consultar Google Play cada vez que abre la Aplicación; la validez real de su compra siempre la determina Google Play.
 - **Resultado de la verificación de edad:** al abrir la Aplicación por primera vez, le pedimos que elija su año de nacimiento en una rueda de selección para calcular si es mayor de 18 años. Ese cálculo se hace en el momento, en su propio dispositivo: **solo guardamos el resultado (mayor o menor de edad), nunca el año de nacimiento que eligió**, y ese resultado tampoco sale de su dispositivo.
+- **Contenido del juego que ya salió:** algunos juegos anotan qué contenido ya apareció para no repetirlo hasta haberlo mostrado todo. Hoy lo hace "Adivina con Emojis", que guarda la lista de los acertijos ya vistos en cada categoría. Lo que se guarda son **los propios textos del juego, que ya vienen dentro de la Aplicación**, no información sobre usted ni sobre cómo jugó: no hay puntajes, ni aciertos, ni fechas, ni identificadores de dispositivo.
 
-Si desinstala la Aplicación o borra sus datos desde los ajustes del sistema, esta información se elimina por completo y de forma irreversible.
+Nada de lo anterior se envía a ninguna parte, y si desinstala la Aplicación o borra sus datos desde los ajustes del sistema, esta información se elimina por completo y de forma irreversible.
 
 ## 5. Permisos del dispositivo
 
 La Aplicación solicita los siguientes permisos, únicamente para las funcionalidades indicadas y siempre procesados en el propio dispositivo:
 
-- **Micrófono:** utilizado para el reconocimiento de voz en el juego "La Frasecita" y en el minijuego de trabalenguas dentro de "¿Estoy ebrio?". El audio se convierte en texto mediante el servicio de reconocimiento de voz del propio sistema operativo; **no grabamos, transmitimos ni almacenamos audio** en ningún momento.
-- **Sensores de movimiento (giroscopio/acelerómetro):** utilizados para detectar los movimientos del dispositivo en "Charada" (Clásica y Previa) y en el minijuego de equilibrio dentro de "¿Estoy ebrio?". Esta información se procesa en tiempo real en el dispositivo y no se guarda ni se envía a ninguna parte.
+- **Micrófono:** utilizado para el reconocimiento de voz en el juego "La Frasecita" y en el minijuego "Trabalenguas Exprés" dentro de "¿Estoy ebrio?". El audio se convierte en texto mediante el servicio de reconocimiento de voz del propio sistema operativo; **no grabamos, transmitimos ni almacenamos audio** en ningún momento.
+- **Sensores de movimiento (giroscopio/acelerómetro):** utilizados para detectar los movimientos del dispositivo en "Charada" (Clásica y Previa) y en el minijuego "Pulso Firme" dentro de "¿Estoy ebrio?". Esta información se procesa en tiempo real en el dispositivo y no se guarda ni se envía a ninguna parte.
 - **Internet:** utilizado para comprar o restaurar "VibraApp Premium" a través de Google Play (ver sección 6) y para cargar los anuncios de Google AdMob (ver sección 7). Ninguna otra función de la Aplicación requiere conexión.
+
+Los demás juegos incorporados a la Aplicación (Tutti Frutti, Ahorcado, Memorízala, Pinto Dedo, Adivina con Emojis, Bomba, Palabra Prohibida, ¿Quién es más probable?, La Botella y Rey de la Baraja) **no solicitan ningún permiso**: funcionan únicamente con la pantalla táctil, y los que emiten sonido (como la alarma de fin de ronda de Tutti Frutti) solo reproducen un archivo incluido en la propia Aplicación, lo que no requiere permiso alguno ni acceso al micrófono.
 
 La Aplicación **no solicita ni accede** a su ubicación geográfica, cámara, contactos, ni a ningún otro permiso.
 
@@ -51,7 +54,7 @@ La Aplicación **no solicita ni accede** a su ubicación geográfica, cámara, c
 
 ## 7. Publicidad
 
-VibraApp muestra anuncios publicitarios en formato **banner**, ubicados en la parte inferior de la pantalla, servidos a través de **Google AdMob** (Google LLC). Es el único proveedor con fines publicitarios que usamos, y son los únicos anuncios de la Aplicación: no usamos anuncios de pantalla completa ni de video. Los banners solo aparecen en las pantallas de navegación (inicio y selección de categorías); nunca durante una partida.
+VibraApp muestra anuncios publicitarios en formato **banner**, ubicados en la parte inferior de la pantalla, servidos a través de **Google AdMob** (Google LLC). Es el único proveedor con fines publicitarios que usamos, y son los únicos anuncios de la Aplicación: no usamos anuncios de pantalla completa ni de video. Los banners aparecen en las pantallas de navegación (inicio y selección de categorías) y en los juegos que se juegan en una sola pantalla, como "Rey de la baraja" o "Dado": en ellos el banner se mantiene visible en la parte inferior durante toda la partida, así que Google AdMob puede recibir la información técnica descrita abajo mientras juega. En el resto de los juegos no hay publicidad durante la partida.
 
 Para poder mostrar estos anuncios, Google AdMob recibe automáticamente cierta información técnica de su dispositivo: el identificador de publicidad, datos básicos del dispositivo y del sistema operativo, su dirección IP (de la cual puede inferirse una ubicación aproximada) y datos de interacción con el anuncio (impresiones, clics), con fines de entrega del anuncio, medición y prevención de fraude.
 
@@ -77,7 +80,7 @@ Como no recopilamos ni almacenamos datos personales identificables, no existe un
 
 ## 11. Seguridad de la información
 
-La única información que persiste está cifrada en su propio dispositivo mediante los mecanismos de seguridad del sistema operativo (Android Keystore). Al no transmitirse a ningún servidor nuestro, no existe un canal de comunicación con el Titular que pueda verse comprometido. No obstante, ningún sistema es completamente infalible.
+El estado de su compra Premium se guarda cifrado en su propio dispositivo mediante los mecanismos de seguridad del sistema operativo (Android Keystore). El resto de lo que persiste son preferencias de la Aplicación y el registro de contenido ya visto descritos en la sección 4: se guardan en el almacenamiento de preferencias normal de la app, porque no contienen información personal ni sensible. Al no transmitirse nada a ningún servidor nuestro, no existe un canal de comunicación con el Titular que pueda verse comprometido. No obstante, ningún sistema es completamente infalible.
 
 ## 12. Cambios a esta Política de Privacidad
 

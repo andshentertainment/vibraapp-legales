@@ -1,6 +1,6 @@
 # Términos y Condiciones de Uso — VibraApp
 
-**Última actualización:** 19 de septiembre de 2026
+**Última actualización:** 23 de septiembre de 2026
 
 ## 1. Introducción y aceptación
 
@@ -18,7 +18,15 @@ Al descargar, instalar o utilizar de cualquier forma la Aplicación, usted, el u
 
 ## 3. Descripción del Servicio
 
-VibraApp es una aplicación de entretenimiento social diseñada para dinamizar reuniones sociales entre amigos o allegados, a través de distintos juegos y retos, entre ellos: Charada Clásica, Charada Previa, Yo Nunca, Yo Nunca Nunca, Trabalenguas, Verdad o Reto, La Frasecita, Retos Aleatorios, Dado y "¿Estoy ebrio?" (serie de minijuegos de entretenimiento), entre otros que puedan incorporarse en el futuro.
+VibraApp es una aplicación de entretenimiento social diseñada para dinamizar reuniones sociales entre amigos o allegados, a través de distintos juegos y retos, entre ellos:
+
+a) **Modo Clásico:** Charada Clásica, Yo Nunca, Trabalenguas, Retos Aleatorios, Dado, La Frasecita, Tutti Frutti, Ahorcado, Memorízala, Pinto Dedo, Adivina con Emojis, Bomba y Palabra Prohibida.
+
+b) **Modo Previa:** Charada Previa, Yo Nunca Nunca, Verdad o Reto, Palabra Prohibida (Previa), ¿Quién es más probable?, La Botella, Rey de la Baraja y "¿Estoy ebrio?" (serie de minijuegos de entretenimiento: Pulso Rápido, Pulso Firme, Trabalenguas Exprés, Reloj Interno, Del 1 al 9 y Cuentas Claras).
+
+Esta relación es enunciativa y no limitativa: el Titular puede agregar, modificar o retirar juegos y categorías en futuras versiones, conforme a la sección 10.
+
+Algunos juegos son de mecánica pura y no usan contenido de texto (por ejemplo Dado, Pinto Dedo, Memorízala, La Botella o Rey de la Baraja), otros reproducen efectos de sonido (por ejemplo la alarma de fin de ronda de Tutti Frutti) y otros toman prestado el contenido de un juego distinto (por ejemplo La Botella, que puede repartir cartas de Verdad o Reto y de Retos Aleatorios). Todo ello forma parte de la misma Aplicación y se rige por estos Términos.
 
 La Aplicación **no requiere registro, cuenta ni conexión a internet** para funcionar. Todo el contenido gratuito está disponible de inmediato tras la instalación. La conexión a internet solo es necesaria para comprar o restaurar VibraApp Premium a través de Google Play.
 
@@ -28,7 +36,9 @@ El uso general de la Aplicación (Modo Clásico) no tiene restricción de edad e
 
 El **Modo Previa** está **reservado exclusivamente para personas mayores de 18 años**, dada su temática de entretenimiento nocturno. La primera vez que el Usuario abre la Aplicación, esta le solicita indicar su año de nacimiento mediante un selector, para calcular si es mayor de edad; el Usuario declara bajo su responsabilidad que la información proporcionada es veraz. Si el resultado del cálculo es menor a 18 años, el Modo Previa queda completamente oculto y no puede activarse por ningún medio dentro de la Aplicación. El Titular confía además en la clasificación de edad de la Aplicación en las tiendas oficiales (Google Play y App Store) y en los controles parentales del dispositivo como mecanismos adicionales de restricción de acceso a menores de edad, e insta a los padres o tutores a configurarlos.
 
-Parte del contenido del Modo Previa hace referencia, con fines exclusivamente lúdicos, al consumo de bebidas alcohólicas (por ejemplo, en los juegos "Yo Nunca Nunca" o "¿Estoy ebrio?"). El Titular **no promueve el consumo excesivo o irresponsable de alcohol** y recomienda encarecidamente a los Usuarios beber con moderación, no conducir vehículos bajo los efectos del alcohol y respetar la normativa vigente en su jurisdicción sobre venta y consumo de bebidas alcohólicas.
+Parte del contenido del Modo Previa hace referencia, con fines exclusivamente lúdicos, al consumo de bebidas alcohólicas (por ejemplo, en los juegos "Yo Nunca Nunca", "Verdad o Reto", "La Botella", "¿Estoy ebrio?" o "Rey de la Baraja"). En particular, el juego **"Rey de la Baraja"** propone reglas que mencionan expresamente beber o servir bebida (incluida la denominada "Copa del Rey"). Se trata de **sugerencias de juego, no de instrucciones que el Usuario deba seguir**: cada participante decide libremente si bebe, qué bebe y cuánto, y puede sustituir cualquier trago por una prenda, un reto o una bebida sin alcohol.
+
+El Titular **no promueve el consumo excesivo o irresponsable de alcohol** y recomienda encarecidamente a los Usuarios beber con moderación, no conducir vehículos bajo los efectos del alcohol, no beber si están medicados, embarazadas o si su salud lo desaconseja, y respetar la normativa vigente en su jurisdicción sobre venta y consumo de bebidas alcohólicas.
 
 ## 5. Uso responsable y conducta del Usuario
 
@@ -54,7 +64,7 @@ d) **Restauración de compras:** VibraApp Premium queda asociado a la cuenta de 
 
 ## 7. Publicidad
 
-La Aplicación muestra anuncios publicitarios en formato banner, ubicados en la parte inferior de la pantalla, servidos por **Google AdMob**. Los banners aparecen únicamente en las pantallas de navegación (inicio y selección de categorías); **no se muestra publicidad durante el desarrollo de una partida**. El Usuario reconoce y acepta que la Aplicación gratuita se sostiene, entre otros medios, mediante esta publicidad, y que su tratamiento de datos se describe en la [Política de Privacidad](#privacidad).
+La Aplicación muestra anuncios publicitarios en formato banner, ubicados en la parte inferior de la pantalla, servidos por **Google AdMob**. Los banners aparecen en las pantallas de navegación (inicio y selección de categorías) y, además, en los juegos que se desarrollan íntegramente en una sola pantalla, como "Rey de la baraja" o "Dado", donde el banner **permanece visible en la parte inferior durante toda la partida**. En los demás juegos no se muestra publicidad durante el desarrollo de la partida. En ningún caso se usan anuncios de pantalla completa ni de video, ni se interrumpe el juego para mostrar un anuncio. El Usuario reconoce y acepta que la Aplicación gratuita se sostiene, entre otros medios, mediante esta publicidad, y que su tratamiento de datos se describe en la [Política de Privacidad](#privacidad).
 
 Los Usuarios que adquieran VibraApp Premium **dejan de ver publicidad** en toda la Aplicación, conforme a la sección 6.
 
@@ -70,9 +80,13 @@ Se concede al Usuario una licencia limitada, personal, no exclusiva, no transfer
 
 a) La Aplicación se ofrece "tal cual" y "según disponibilidad". El Titular no garantiza que el Servicio sea ininterrumpido, libre de errores o esté disponible en todo momento.
 
-b) Los minijuegos de la sección "¿Estoy ebrio?" (pulso rápido, equilibrio, trabalenguas exprés, y similares) constituyen dinámicas de entretenimiento y **no son, en ningún caso, un dispositivo médico, alcoholímetro ni una prueba científica o clínica**. **LOS RESULTADOS NO DEBEN UTILIZARSE BAJO NINGUNA CIRCUNSTANCIA PARA DETERMINAR LA APTITUD PARA CONDUCIR UN VEHÍCULO, OPERAR MAQUINARIA O REALIZAR CUALQUIER ACTIVIDAD QUE REQUIERA DE LAS PLENAS FACULTADES DEL USUARIO.** El Titular rechaza toda responsabilidad por las decisiones o consecuencias derivadas de ignorar esta advertencia.
+b) Los minijuegos de la sección "¿Estoy ebrio?" (Pulso Rápido, Pulso Firme, Trabalenguas Exprés, Reloj Interno, Del 1 al 9, Cuentas Claras y similares) constituyen dinámicas de entretenimiento y **no son, en ningún caso, un dispositivo médico, alcoholímetro ni una prueba científica o clínica**. **LOS RESULTADOS NO DEBEN UTILIZARSE BAJO NINGUNA CIRCUNSTANCIA PARA DETERMINAR LA APTITUD PARA CONDUCIR UN VEHÍCULO, OPERAR MAQUINARIA O REALIZAR CUALQUIER ACTIVIDAD QUE REQUIERA DE LAS PLENAS FACULTADES DEL USUARIO.** El Titular rechaza toda responsabilidad por las decisiones o consecuencias derivadas de ignorar esta advertencia.
 
 c) El Titular no se hace responsable por daños, lesiones o perjuicios derivados del uso de la Aplicación durante reuniones sociales, incluyendo aquellos relacionados con el consumo de alcohol, caídas, golpes u otros incidentes ocurridos durante la práctica de las dinámicas propuestas. El Usuario participa en dichos juegos bajo su propia responsabilidad y criterio.
+
+d) Algunas dinámicas implican movimiento físico, reacciones rápidas o pasar el dispositivo de mano en mano (por ejemplo Charada, Bomba, Pinto Dedo, La Botella, el minijuego "Pulso Firme", que se juega parado en un pie, o reglas de "Rey de la Baraja" como tocar el suelo o levantar la mano). El Usuario es el único responsable de practicarlas en un espacio seguro, con calzado y superficie adecuados, y de cuidar la integridad de su dispositivo: el Titular no responde por caídas, golpes, roturas de pantalla ni daños al equipo o a terceros ocurridos durante el juego.
+
+e) Los juegos que ofrecen o sugieren contenido "picante" o para adultos dentro del Modo Previa se proponen únicamente entre personas mayores de edad que participan de forma voluntaria. Ningún reto, pregunta o regla de la Aplicación obliga al Usuario a hacer algo contra su voluntad: siempre puede pasar de turno, cambiar la carta o dejar de jugar.
 
 d) En la máxima medida permitida por la ley aplicable, el Titular no será responsable por daños indirectos, incidentales, especiales o consecuentes derivados del uso o la imposibilidad de uso de la Aplicación.
 
